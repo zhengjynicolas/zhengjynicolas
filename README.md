@@ -1,13 +1,13 @@
 ### Hi there 👋 welcome to my 🏠
 
 #### My Skills & Tools
-<section style="display: flex;align-items: center; gap:1em; flex-wrap: wrap">
+<div style="display: flex; align-items: center; gap:1em;">
 <img src="./assets/svgs/javascript.svg" alt="javascript" height="50">
 <img src="./assets/svgs/typescript.svg" alt="typescript" height="50">
 <img src="./assets/svgs/html-5.svg" alt="html" height="50">
 <img src="./assets/svgs/css-3.svg" alt="css" height="50">
 <img src="./assets/svgs/file-type-sass.svg" alt="sass" height="50">
-<img src="./assets/svgs/tailwindcss.svg" alt="tailwindcss" height="20">
+<img src="./assets/svgs/tailwindcss.svg" alt="tailwindcss" height="20" style="display:inline; vertical-align: center">
 <img src="./assets/svgs/file-type-vue.svg" alt="vue" height="50">
 <img src="./assets/svgs/nuxtjs-wordmark.svg" alt="nuxt" width="120">
 <img src="./assets/svgs/nodejs.svg" alt="nodejs" height="50">
@@ -17,9 +17,7 @@
 <img src="./assets/svgs/vitejs.svg" alt="vite" height="50">
 <img src="./assets/svgs/git.svg" alt="git" height="50">
 <img src="./assets/svgs/iconify1.svg" alt="iconify" height="50">
-</section>
-
-
+</div>
 <!--
 **zhengjynicolas/zhengjynicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
