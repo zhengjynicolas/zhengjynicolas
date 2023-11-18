@@ -1,13 +1,8 @@
 ## Hi there 👋 welcome to my 🏠
 ### Served Company
-_May 2018 - Jul 2023_
+<img src="https://img.shields.io/badge/-May%202018_--_Jul%202023-black?labelColor=%23e1241b&logo=LENOVO" width="300"/>
 
-<img src="./assets/svgs/lenovo.svg" alt="lenovo" width="80"/>
-
-
-_Jun 2012 - Jan 2018_
-
-<img src="./assets/svgs/nec.svg" alt="nec" width="80"/>
+<img src="https://img.shields.io/badge/-Jun_2012_--_Jan_2018-black?labelColor=%231414A0&logo=NEC" width="300" alt="NEC"/>
 
 ### My Skills & Tools
 <div>
