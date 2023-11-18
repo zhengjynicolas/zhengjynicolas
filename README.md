@@ -1,8 +1,4 @@
 ## Hi there 👋 welcome to my 🏠
-### Served Company
-<img src="https://img.shields.io/badge/-May%202018_--_Jul%202023-black?labelColor=%23e1241b&logo=LENOVO&style=plastic" height="30" alt="LENOVO Badge"/>
-
-<img src="https://img.shields.io/badge/-Jun_2012_--_Jan_2018-black?labelColor=%231414A0&logo=NEC&style=plastic" height="30" alt="NEC Badge"/>
 
 ### My Skills & Tools
 <div>
@@ -22,6 +18,11 @@
 <img src="./assets/svgs/vitejs.svg" alt="vite" height="30"/>
 <img src="./assets/svgs/iconify1.svg" alt="iconify" height="30"/>
 </div>
+
+### Served Company
+<img src="https://img.shields.io/badge/-May%202018_--_Jul%202023-black?labelColor=%23e1241b&logo=LENOVO&style=plastic" height="30" alt="LENOVO Badge"/>
+
+<img src="https://img.shields.io/badge/-Jun_2012_--_Jan_2018-black?labelColor=%231414A0&logo=NEC&style=plastic" height="30" alt="NEC Badge"/>
 
 <!--
 **zhengjynicolas/zhengjynicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
