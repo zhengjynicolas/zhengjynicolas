@@ -1,7 +1,5 @@
 ## Hi there 👋 welcome to my 🏠
-
-
-#### Served Company
+### Served Company
 _May 2018 - Jul 2023_
 
 <img src="./assets/svgs/lenovo.svg" alt="lenovo" width="80"/>
@@ -11,8 +9,7 @@ _Jun 2012 - Jan 2018_
 
 <img src="./assets/svgs/nec.svg" alt="nec" width="80"/>
 
-
-#### My Skills & Tools
+### My Skills & Tools
 <div>
 <img src="./assets/svgs/javascript.svg" alt="javascript" height="30"/>
 <img src="./assets/svgs/typescript.svg" alt="typescript" height="30"/>
