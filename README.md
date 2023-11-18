@@ -1,7 +1,10 @@
-### Hi there 👋 welcome to my 🏠
+## Hi there 👋 welcome to my 🏠
 
-#### Served Corp.
+#### Served Company
+May 2018 - Jul 2023
 <img src="./assets/svgs/lenovo.svg" alt="lenovo" width="80"/>
+
+Jun 2012 - Jan 2018
 <img src="./assets/svgs/nec.svg" alt="nec" width="80"/>
 
 #### My Skills & Tools
