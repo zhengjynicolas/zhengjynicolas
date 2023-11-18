@@ -1,7 +1,6 @@
 ## Hi there 👋 welcome to my 🏠
 
 #### Served Company
-
 _May 2018 - Jul 2023_
 
 <img src="./assets/svgs/lenovo.svg" alt="lenovo" width="80"/>
