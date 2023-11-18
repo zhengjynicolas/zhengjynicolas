@@ -17,7 +17,6 @@
 <img src="./assets/svgs/git.svg" alt="git" height="30"/>
 <img src="./assets/svgs/npm-wordmark.svg" alt="npm" height="30"/>
 <img src="./assets/svgs/vitejs.svg" alt="vite" height="30"/>
-<img src="./assets/svgs/iconify1.svg" alt="iconify" height="30"/>
 <img src="./assets/svgs/file-type-jsp.svg" alt="jsp" height="30"/>
 <img src="./assets/svgs/file-type-handlebars.svg" alt="handlebars" height="30"/>
 <img src="./assets/svgs/i-accessibility.svg" alt="A11Y" height="30"/>
@@ -46,22 +45,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<!--
-![Javascript](./assets/svgs/javascript.svg)
-![typescript](./assets/svgs/typescript.svg)
-![html](./assets/svgs/html-5.svg)
-![css](./assets/svgs/css-3.svg)
-![tailwindCss](./assets/svgs/tailwindcss.svg)
-![sass](./assets/svgs/file-type-sass.svg)
-![nodejs](./assets/svgs/nodejs.svg)
-![gulp](./assets/svgs/gulp.svg)
-![webpack](./assets/svgs/webpack.svg)
-![npm](./assets/svgs/npm-wordmark.svg)
-![vue](./assets/svgs/file-type-vue.svg)
-![nuxt](./assets/svgs/nuxt-icon.svg)
-![vite](./assets/svgs/vitejs.svg)
-![git](./assets/svgs/git.svg)
-![iconify](./assets/svgs/iconify1.svg)
 -->
