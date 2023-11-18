@@ -1,5 +1,6 @@
 ## Hi there 👋 welcome to my 🏠
 
+
 #### Served Company
 _May 2018 - Jul 2023_
 
@@ -9,6 +10,7 @@ _May 2018 - Jul 2023_
 _Jun 2012 - Jan 2018_
 
 <img src="./assets/svgs/nec.svg" alt="nec" width="80"/>
+
 
 #### My Skills & Tools
 <div>
