@@ -1,8 +1,8 @@
 ## Hi there 👋 welcome to my 🏠
 ### Served Company
-<img src="https://img.shields.io/badge/-May%202018_--_Jul%202023-black?labelColor=%23e1241b&logo=LENOVO" width="300"/>
+<img src="https://img.shields.io/badge/-May%202018_--_Jul%202023-black?labelColor=%23e1241b&logo=LENOVO&style=plastic" height="40" alt="LENOVO Badge"/>
 
-<img src="https://img.shields.io/badge/-Jun_2012_--_Jan_2018-black?labelColor=%231414A0&logo=NEC" width="300" alt="NEC"/>
+<img src="https://img.shields.io/badge/-Jun_2012_--_Jan_2018-black?labelColor=%231414A0&logo=NEC&style=plastic" height="40" alt="NEC Badge"/>
 
 ### My Skills & Tools
 <div>
