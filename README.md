@@ -20,6 +20,12 @@
 <img src="./assets/svgs/iconify1.svg" alt="iconify" height="30"/>
 <img src="./assets/svgs/file-type-jsp.svg" alt="jsp" height="30"/>
 <img src="./assets/svgs/file-type-handlebars.svg" alt="handlebars" height="30"/>
+<img src="./assets/svgs/i-accessibility.svg" alt="A11Y" height="30"/>
+<img src="./assets/svgs/seo.svg" alt="SEO" height="30"/>
+<img src="./assets/svgs/performance.svg" alt="performance" height="30"/>
+<img src="./assets/svgs/invision-icon.svg" alt="inVision" height="30"/>
+<img src="./assets/svgs/figma.svg" alt="figma" height="30"/>
+<img src="./assets/svgs/adobe-xd.svg" alt="adobe xd" height="30"/>
 </div>
 
 ## Served Company
