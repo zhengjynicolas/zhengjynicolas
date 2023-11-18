@@ -8,6 +8,7 @@
 <img src="./assets/svgs/css-3.svg" alt="css" height="30"/>
 <img src="./assets/svgs/file-type-sass.svg" alt="sass" height="30"/>
 <img src="./assets/svgs/tailwindcss.svg" alt="tailwindcss" height="20"/>
+<img src="./assets/svgs/jquery-wordmark.svg" alt="jquery" height="30"/>
 <img src="./assets/svgs/file-type-vue.svg" alt="vue" height="30"/>
 <img src="./assets/svgs/nuxt-icon.svg" alt="nuxt" height="30"/>
 <img src="./assets/svgs/nodejs.svg" alt="nodejs" height="30"/>
@@ -17,6 +18,8 @@
 <img src="./assets/svgs/npm-wordmark.svg" alt="npm" height="30"/>
 <img src="./assets/svgs/vitejs.svg" alt="vite" height="30"/>
 <img src="./assets/svgs/iconify1.svg" alt="iconify" height="30"/>
+<img src="./assets/svgs/file-type-jsp.svg" alt="jsp" height="30"/>
+<img src="./assets/svgs/file-type-handlebars.svg" alt="handlebars" height="30"/>
 </div>
 
 ### Served Company
