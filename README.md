@@ -1,4 +1,4 @@
-# Hi there 👋 welcome to my 🏠
+# Hi there 👋 welcome to my 🏠 I am Joy <img src="./assets/avatar.jpeg" style="border-radius:50%" height="30" alt="My Avatar"/>
 
 ## My Skills & Tools
 <div>
