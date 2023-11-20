@@ -1,6 +1,6 @@
 # Hi there 👋 welcome to my 🏠 I am Joy <img src="./assets/avatar.jpeg" style="border-radius:50%" height="30" alt="My Avatar"/>
 
-![](https://komarev.com/ghpvc/?username=zhengjynicolas)
+![](https://komarev.com/ghpvc/?username=zhengjynicolas&base=1000)
 
 ![Joy's GitHub Readme Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
