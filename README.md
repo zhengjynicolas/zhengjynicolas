@@ -1,5 +1,10 @@
 # Hi there 👋 welcome to my 🏠 I am Joy <img src="./assets/avatar.jpeg" style="border-radius:50%" height="30" alt="My Avatar"/>
 
+![](https://komarev.com/ghpvc/?username=zhengjynicolas)
+
+![Joy's GitHub Readme Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 ## My Skills & Tools
 <div>
 <img src="./assets/svgs/javascript.svg" alt="javascript" height="30"/>
@@ -46,3 +51,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhengjynicolas&layout=donut-vertical)
+![Joy's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zhengjynicolas)
+![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zhengjynicolas)
+
+[//]: # (https://github.com/anuraghazra/github-readme-stats)
+[//]: # (![Joy's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=zhengjynicolas&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=ambient_gradient&#41;)
