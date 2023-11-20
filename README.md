@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=zhengjynicolas)
 
-![Joy's GitHub Readme Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Joy's GitHub Readme Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 
 ## My Skills & Tools
