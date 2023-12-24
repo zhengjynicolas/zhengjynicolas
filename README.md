@@ -1,4 +1,4 @@
-# Hi there 👋 welcome to my 🏠 I'm Joy <img src="./assets/avatar.jpeg" style="border-radius:50%" height="30" alt="My Avatar"/>
+# Hi there 👋 welcome to my 🏠 I'm Joy
 
 ![](https://komarev.com/ghpvc/?username=zhengjynicolas&base=1000)
 
