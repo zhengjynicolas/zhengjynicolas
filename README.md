@@ -2,8 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=zhengjynicolas&base=1000)
 
-![Joy's GitHub Readme Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+![](https://www.codewars.com/users/zhengjynicolas/badges/small)
 
+![Joy's GitHub Readme Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 ## My Skills & Tools
 <div>
@@ -54,3 +55,8 @@ Here are some ideas to get you started:
 
 [//]: # (https://github.com/anuraghazra/github-readme-stats)
 [//]: # (![Joy's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=zhengjynicolas&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=ambient_gradient&#41;)
+
+## Speak Languages
+- Chinise (Native)
+- Japanese (Fluent, working level)
+- English (Fluent, working level)
