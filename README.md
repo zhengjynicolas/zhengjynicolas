@@ -8,14 +8,14 @@
 
 ## My Skills & Tools
 <div>
-<img src="./assets/svgs/javascript.svg" alt="javascript" height="30"/>
-<img src="./assets/svgs/typescript.svg" alt="typescript" height="30"/>
-<img src="./assets/svgs/html-5.svg" alt="html" height="30"/>
-<img src="./assets/svgs/css-3.svg" alt="css" height="30"/>
-<img src="./assets/svgs/file-type-sass.svg" alt="sass" height="30"/>
+<img src="./assets/svgs/javascript.svg" alt="javascript" height="32"/>
+<img src="./assets/svgs/typescript.svg" alt="typescript" height="32"/>
+<img src="./assets/svgs/html-5.svg" alt="html" height="36"/>
+<img src="./assets/svgs/css-3.svg" alt="css" height="36"/>
+<img src="./assets/svgs/file-type-sass.svg" alt="sass" height="32"/>
 <img src="./assets/svgs/tailwindcss.svg" alt="tailwindcss" height="20"/>
-<img src="./assets/svgs/jquery-wordmark.svg" alt="jquery" height="30"/>
-<img src="./assets/svgs/file-type-vue.svg" alt="vue" height="30"/>
+<img src="./assets/svgs/jquery-wordmark.svg" alt="jquery" height="32"/>
+<img src="./assets/svgs/file-type-vue.svg" alt="vue" height="32"/>
 <img src="./assets/svgs/nuxt-icon.svg" alt="nuxt" height="30"/>
 <img src="./assets/svgs/react.svg" alt="react" height="30"/>
 <img src="./assets/svgs/vite.svg" alt="vite" height="30"/>
