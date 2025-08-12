@@ -17,12 +17,15 @@
 <img src="./assets/svgs/jquery-wordmark.svg" alt="jquery" height="30"/>
 <img src="./assets/svgs/file-type-vue.svg" alt="vue" height="30"/>
 <img src="./assets/svgs/nuxt-icon.svg" alt="nuxt" height="30"/>
-<img src="./assets/svgs/nodejs.svg" alt="nodejs" height="30"/>
+<img src="./assets/svgs/react.svg" alt="react" height="30"/>
+<img src="./assets/svgs/vite.svg" alt="vite" height="30"/>
 <img src="./assets/svgs/webpack.svg" alt="webpack" height="30"/>
 <img src="./assets/svgs/gulp.svg" alt="gulp" height="30"/>
 <img src="./assets/svgs/git.svg" alt="git" height="30"/>
 <img src="./assets/svgs/npm-wordmark.svg" alt="npm" height="30"/>
 <img src="./assets/svgs/i-accessibility.svg" alt="A11Y" height="30"/>
+<img src="./assets/svgs/nodejs.svg" alt="nodejs" height="30"/>
+<img src="./assets/svgs/nestjs.svg" alt="nestjs" height="30"/>
 <img src="./assets/svgs/seo.svg" alt="SEO" height="30"/>
 <img src="./assets/svgs/performance.svg" alt="performance" height="30"/>
 <img src="./assets/svgs/invision-icon.svg" alt="inVision" height="30"/>
@@ -31,9 +34,9 @@
 </div>
 
 ## Served Company
-<img src="https://img.shields.io/badge/-May%202018_--_Jul%202023-black?labelColor=%23e1241b&logo=LENOVO&style=plastic" height="30" alt="LENOVO Badge"/>
+<img src="https://img.shields.io/badge/-May_2018_--_Jul_2023-black?labelColor=%23e1241b&logo=LENOVO&style=plastic" height="50" alt="LENOVO Badge"/>
 
-<img src="https://img.shields.io/badge/-Jun_2012_--_Jan_2018-black?labelColor=%231414A0&logo=NEC&style=plastic" height="30" alt="NEC Badge"/>
+<img src="https://img.shields.io/badge/-Jun_2012_--_Jan_2018-black?labelColor=%231414A0&logo=NEC&style=plastic" height="50" alt="NEC Badge"/>
 
 <!--
 **zhengjynicolas/zhengjynicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
