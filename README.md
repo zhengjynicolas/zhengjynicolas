@@ -54,9 +54,9 @@
 
 ## 🏢 Experience
 
-<img src="https://img.shields.io/badge/𝐋𝐄𝐍𝐎𝐕𝐎-May_2018_--_Jul_2023-black?labelColor=%23e1241b&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/𝐋𝐄𝐍𝐎𝐕𝐎-May_2018_--_Jul_2023-black?labelColor=%23e1241b&style=for-the-badge" height="28"/>
 
-<img src="https://img.shields.io/badge/𝐍𝐄𝐂-Jun_2012_--_Jan_2018-black?labelColor=%231414A0&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/𝐍𝐄𝐂-Jun_2012_--_Jan_2018-black?labelColor=%231414A0&style=for-the-badge" height="28"/>
 
 ---
 
