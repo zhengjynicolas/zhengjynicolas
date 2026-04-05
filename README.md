@@ -1,64 +1,68 @@
-# Hi there 👋 welcome to my 🏠 I'm Joy
+# 👋 Hey, I'm Joy
 
-![](https://komarev.com/ghpvc/?username=zhengjynicolas&base=1000)
+🚀 Fullstack Developer | 🏗 Frontend Architect
+🌐 https://zhengjynicolas.github.io/
 
+![](https://komarev.com/ghpvc/?username=zhengjynicolas\&style=flat-square\&color=blueviolet)
 ![](https://www.codewars.com/users/zhengjynicolas/badges/small)
 
-![Joy's GitHub Readme Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=vertical\&theme=tokyonight)
 
-## My Skills & Tools
+---
+
+## ⚡ Tech Stack
+
 <div>
-<img src="./assets/svgs/javascript.svg" alt="javascript" height="32"/>
-<img src="./assets/svgs/typescript.svg" alt="typescript" height="32"/>
-<img src="./assets/svgs/html-5.svg" alt="html" height="36"/>
-<img src="./assets/svgs/css-3.svg" alt="css" height="36"/>
-<img src="./assets/svgs/file-type-sass.svg" alt="sass" height="32"/>
-<img src="./assets/svgs/tailwindcss.svg" alt="tailwindcss" height="20"/>
-<img src="./assets/svgs/jquery-wordmark.svg" alt="jquery" height="32"/>
-<img src="./assets/svgs/file-type-vue.svg" alt="vue" height="32"/>
-<img src="./assets/svgs/nuxt-icon.svg" alt="nuxt" height="30"/>
-<img src="./assets/svgs/react.svg" alt="react" height="30"/>
-<img src="./assets/svgs/vite.svg" alt="vite" height="30"/>
-<img src="./assets/svgs/webpack.svg" alt="webpack" height="30"/>
-<img src="./assets/svgs/gulp.svg" alt="gulp" height="30"/>
-<img src="./assets/svgs/git.svg" alt="git" height="30"/>
-<img src="./assets/svgs/npm-wordmark.svg" alt="npm" height="30"/>
-<img src="./assets/svgs/i-accessibility.svg" alt="A11Y" height="30"/>
-<img src="./assets/svgs/nodejs.svg" alt="nodejs" height="30"/>
-<img src="./assets/svgs/nestjs.svg" alt="nestjs" height="30"/>
-<img src="./assets/svgs/seo.svg" alt="SEO" height="30"/>
-<img src="./assets/svgs/performance.svg" alt="performance" height="30"/>
-<img src="./assets/svgs/invision-icon.svg" alt="inVision" height="30"/>
-<img src="./assets/svgs/figma.svg" alt="figma" height="30"/>
-<img src="./assets/svgs/adobe-xd.svg" alt="adobe xd" height="30"/>
+<img src="./assets/svgs/javascript.svg" height="32"/>
+<img src="./assets/svgs/typescript.svg" height="32"/>
+<img src="./assets/svgs/html-5.svg" height="36"/>
+<img src="./assets/svgs/css-3.svg" height="36"/>
+<img src="./assets/svgs/file-type-sass.svg" height="32"/>
+<img src="./assets/svgs/tailwindcss.svg" height="20"/>
+<img src="./assets/svgs/jquery-wordmark.svg" height="32"/>
+<img src="./assets/svgs/file-type-vue.svg" height="32"/>
+<img src="./assets/svgs/nuxt-icon.svg" height="30"/>
+<img src="./assets/svgs/react.svg" height="30"/>
+<img src="./assets/svgs/vite.svg" height="30"/>
+<img src="./assets/svgs/webpack.svg" height="30"/>
+<img src="./assets/svgs/gulp.svg" height="30"/>
+<img src="./assets/svgs/git.svg" height="30"/>
+<img src="./assets/svgs/npm-wordmark.svg" height="30"/>
+<img src="./assets/svgs/nodejs.svg" height="30"/>
+<img src="./assets/svgs/nestjs.svg" height="30"/>
 </div>
 
-## Served Company
-<img src="https://img.shields.io/badge/-May_2018_--_Jul_2023-black?labelColor=%23e1241b&logo=LENOVO&style=plastic" height="50" alt="LENOVO Badge"/>
+---
 
-<img src="https://img.shields.io/badge/-Jun_2012_--_Jan_2018-black?labelColor=%231414A0&logo=NEC&style=plastic" height="50" alt="NEC Badge"/>
+## 📊 GitHub Activity
 
-<!--
-**zhengjynicolas/zhengjynicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![streak](https://streak-stats.demolab.com?user=zhengjynicolas\&theme=tokyonight\&hide_border=true)
 
-Here are some ideas to get you started:
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=zhengjynicolas\&theme=tokyo-night\&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhengjynicolas&layout=donut-vertical)
-![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zhengjynicolas)
+---
 
-[//]: # (https://github.com/anuraghazra/github-readme-stats)
-[//]: # (![Joy's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=zhengjynicolas&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=ambient_gradient&#41;)
+## 🧠 Focus
 
-## Speak Languages
-- Mandarin (Native)
-- Japanese (Fluent, working level)
-- English (Fluent, working level)
+* ⚡ Performance Optimization
+* ♿ Accessibility (A11Y)
+* 🔍 SEO & Web Experience
+* 🏗 Scalable Frontend Architecture
+
+---
+
+## 🏢 Experience
+
+<img src="https://img.shields.io/badge/-May_2018_--_Jul_2023-black?labelColor=%23e1241b&logo=LENOVO&style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/-Jun_2012_--_Jan_2018-black?labelColor=%231414A0&logo=NEC&style=for-the-badge"/>
+
+---
+
+## 🌍 Languages
+
+* 🇨🇳 Mandarin — Native
+* 🇯🇵 Japanese — Fluent
+* 🇺🇸 English — Fluent
+
+---
